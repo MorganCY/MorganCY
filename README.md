@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Morgan
-```csharp
+```
 I'm a product Manager and a self-taught software engineer.
 Currently working as a full-time iOS Developer for a video streaming company.
 ```
@@ -17,6 +17,10 @@ Currently working as a full-time iOS Developer for a video streaming company.
 <b>Quotely</b></br>
 <a href="https://github.com/MorganCY/Quotely">GitHub Repo</a></br>
 Helps people ﬁnd inspiring quotes in everyday life.
+
+<b>Video Player</b></br>
+<a href="https://github.com/MorganCY/VideoPlayer">GitHub Repo</a></br>
+A video player based on AVKit framework with customized user interface.
 
 <b>Song Searcher</b></br>
 <a href="https://github.com/MorganCY/SongSearcher">GitHub Repo</a></br>
