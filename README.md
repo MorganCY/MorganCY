@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Morgan
 ```
 I'm a product Manager and a self-taught software engineer.
-Currently working as a full-time iOS Developer for a video streaming company.
+Currently working as a full-time Product Manager for a B2C product.
 ```
 
 ### 🌱 Contact
